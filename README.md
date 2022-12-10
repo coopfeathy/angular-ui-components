@@ -1,7 +1,4 @@
 # Official components for Angular
-[![npm version](https://badge.fury.io/js/%40angular%2Fcdk.svg)](https://www.npmjs.com/package/@angular/cdk)
-[![Build status](https://circleci.com/gh/angular/components.svg?style=svg)](https://circleci.com/gh/angular/components)
-[![Gitter](https://badges.gitter.im/angular/components.svg)](https://gitter.im/angular/material2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 The Angular team builds and maintains both common UI components and tools to help you build your
 own custom components. The team maintains several npm packages.
@@ -70,14 +67,3 @@ We aim for great user experience with the following screen readers:
 * **Chrome OS**: ChromeVox with Chrome.
 
 
-[Material Design]: https://material.io
-[Google Maps JavaScript API]: https://developers.google.com/maps/documentation/javascript/tutorial
-[YouTube Player API]: https://developers.google.com/youtube/iframe_api_reference
-[MDC Web]: https://github.com/material-components/material-components-web/
-[cdk-docs]: https://material.angular.io/cdk/categories
-[mat-docs]: https://material.angular.io
-[map-docs]: https://github.com/angular/components/blob/main/src/google-maps/README.md
-[ytp-docs]: https://github.com/angular/components/blob/main/src/youtube-player/README.md
-[getting-started]: https://material.angular.io/guide/getting-started
-[contributing]: https://github.com/angular/components/blob/main/CONTRIBUTING.md
-[help-wanted]: https://github.com/angular/components/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
